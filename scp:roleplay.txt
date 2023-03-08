@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nicuse/RobloxScripts/main/SCPRoleplay.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MoscouPT/IaHubLast/main/scp%3Aroleplay%3Amain.txt", true))()
